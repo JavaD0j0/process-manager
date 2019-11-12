@@ -19,6 +19,7 @@ How to run:
 
 Notes:
 Commands on the input text file are as follow:
+    
     - 'in' = initialize the process manager
     - 'cr priority' = this will create a new process with the priority given (Priority: 1 or 2)
     - 'de childProcess' = this will destroy the child process and all its sub-children
